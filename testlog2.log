@@ -1,0 +1,205 @@
+2024-09-03 15:59:09,933 INFO this is my info
+2024-09-03 15:59:09,933 WARNING this is my warning log
+2024-09-03 15:59:09,933 DEBUG this is my debug log
+2024-09-03 15:59:09,933 ERROR this is my error log
+2024-09-03 16:00:03,222 INFO this is my info
+2024-09-03 16:00:03,222 WARNING this is my warning log
+2024-09-03 16:00:03,222 DEBUG this is my debug log
+2024-09-03 16:00:03,222 ERROR this is my error log
+2024-09-03 16:02:34,999 INFO this is my info
+2024-09-03 16:02:34,999 WARNING this is my warning log
+2024-09-03 16:02:35,000 DEBUG this is my debug log
+2024-09-03 16:02:35,000 ERROR this is my error log
+2024-09-03 16:02:35,000 INFO sucessfully divided a/b
+2024-09-03 16:02:35,000 INFO Enter into else function
+2024-09-03 16:02:35,012 ERROR error happen
+2024-09-03 16:02:35,012 ERROR Exception occure division by zero
+Traceback (most recent call last):
+  File "C:\Users\user\AppData\Local\Temp\ipykernel_9304\1849191447.py", line 10, in divide
+    result = a / b
+             ~~^~~
+ZeroDivisionError: division by zero
+2024-09-03 16:03:14,400 INFO this is my info
+2024-09-03 16:03:14,400 WARNING this is my warning log
+2024-09-03 16:03:14,400 DEBUG this is my debug log
+2024-09-03 16:03:14,400 ERROR this is my error log
+2024-09-03 16:03:14,400 INFO sucessfully divided a/b
+2024-09-03 16:03:14,400 ERROR error happen
+2024-09-03 16:03:14,401 ERROR Exception occure division by zero
+Traceback (most recent call last):
+  File "C:\Users\user\AppData\Local\Temp\ipykernel_9304\4000385231.py", line 10, in divide
+    result = a / b
+             ~~^~~
+ZeroDivisionError: division by zero
+2024-09-03 16:06:44,293 INFO this is my info
+2024-09-03 16:06:44,293 WARNING this is my warning log
+2024-09-03 16:06:44,293 DEBUG this is my debug log
+2024-09-03 16:06:44,293 ERROR this is my error log
+2024-09-03 16:06:44,294 INFO sucessfully Enter function
+2024-09-03 16:06:44,294 INFO Enter into else function
+2024-09-03 16:06:44,294 INFO sucessfully Enter function
+2024-09-03 16:06:44,294 ERROR error happen
+2024-09-03 16:06:44,295 ERROR Exception occure invalid literal for int() with base 10: 'abc'
+Traceback (most recent call last):
+  File "C:\Users\user\AppData\Local\Temp\ipykernel_9304\2481667080.py", line 12, in convert_to_int
+    result = int(value)
+             ^^^^^^^^^^
+ValueError: invalid literal for int() with base 10: 'abc'
+2024-09-03 16:07:42,457 INFO this is my info
+2024-09-03 16:07:42,457 WARNING this is my warning log
+2024-09-03 16:07:42,458 DEBUG this is my debug log
+2024-09-03 16:07:42,458 ERROR this is my error log
+2024-09-03 16:07:42,458 INFO sucessfully Enter function
+2024-09-03 16:07:42,458 INFO Enter into else function
+2024-09-03 16:07:42,458 INFO sucessfully Enter function
+2024-09-03 16:07:42,459 ERROR error happen
+2024-09-03 16:07:42,460 ERROR Exception occure invalid literal for int() with base 10: 'abc'
+Traceback (most recent call last):
+  File "C:\Users\user\AppData\Local\Temp\ipykernel_9304\3994946218.py", line 12, in convert_to_int
+    result = int(value)
+             ^^^^^^^^^^
+ValueError: invalid literal for int() with base 10: 'abc'
+2024-09-03 16:08:06,387 INFO this is my info
+2024-09-03 16:08:06,388 WARNING this is my warning log
+2024-09-03 16:08:06,388 DEBUG this is my debug log
+2024-09-03 16:08:06,388 ERROR this is my error log
+2024-09-03 16:08:06,388 INFO sucessfully Enter function
+2024-09-03 16:08:06,388 INFO Enter into else function
+2024-09-03 16:08:06,388 INFO sucessfully Enter function
+2024-09-03 16:08:06,389 ERROR error happen
+2024-09-03 16:08:06,389 ERROR Exception occure invalid literal for int() with base 10: 'abc'
+Traceback (most recent call last):
+  File "C:\Users\user\AppData\Local\Temp\ipykernel_9304\3994946218.py", line 12, in convert_to_int
+    result = int(value)
+             ^^^^^^^^^^
+ValueError: invalid literal for int() with base 10: 'abc'
+2024-09-03 16:08:58,060 INFO this is my info
+2024-09-03 16:08:58,060 WARNING this is my warning log
+2024-09-03 16:08:58,060 DEBUG this is my debug log
+2024-09-03 16:08:58,060 ERROR this is my error log
+2024-09-03 16:08:58,060 INFO sucessfully Enter function
+2024-09-03 16:08:58,062 INFO Enter into else function
+2024-09-03 16:08:58,064 INFO sucessfully Enter function
+2024-09-03 16:08:58,064 ERROR error happen
+2024-09-03 16:08:58,064 ERROR Exception occure invalid literal for int() with base 10: 'abc'
+Traceback (most recent call last):
+  File "C:\Users\user\AppData\Local\Temp\ipykernel_9304\4035129825.py", line 12, in convert_to_int
+    result = int(value)
+             ^^^^^^^^^^
+ValueError: invalid literal for int() with base 10: 'abc'
+2024-09-03 16:09:00,528 INFO this is my info
+2024-09-03 16:09:00,530 WARNING this is my warning log
+2024-09-03 16:09:00,530 DEBUG this is my debug log
+2024-09-03 16:09:00,531 ERROR this is my error log
+2024-09-03 16:09:00,533 INFO sucessfully Enter function
+2024-09-03 16:09:00,533 INFO Enter into else function
+2024-09-03 16:09:00,534 INFO sucessfully Enter function
+2024-09-03 16:09:00,534 ERROR error happen
+2024-09-03 16:09:00,535 ERROR Exception occure invalid literal for int() with base 10: 'abc'
+Traceback (most recent call last):
+  File "C:\Users\user\AppData\Local\Temp\ipykernel_9304\4035129825.py", line 12, in convert_to_int
+    result = int(value)
+             ^^^^^^^^^^
+ValueError: invalid literal for int() with base 10: 'abc'
+2024-09-03 16:12:10,973 INFO this is my info
+2024-09-03 16:12:10,973 WARNING this is my warning log
+2024-09-03 16:12:10,974 DEBUG this is my debug log
+2024-09-03 16:12:10,974 ERROR this is my error log
+2024-09-03 16:12:10,975 INFO sucessfully Enter function
+2024-09-03 16:12:10,975 INFO Enter into else function
+2024-09-03 16:12:10,975 INFO sucessfully Enter function
+2024-09-03 16:12:10,976 ERROR error happen
+2024-09-03 16:12:10,976 ERROR Exception occure 'address'
+Traceback (most recent call last):
+  File "C:\Users\user\AppData\Local\Temp\ipykernel_9304\4037982092.py", line 12, in get_value_from_dict
+    value = dictionary[key]
+            ~~~~~~~~~~^^^^^
+KeyError: 'address'
+2024-09-03 16:12:52,933 INFO this is my info
+2024-09-03 16:12:52,934 WARNING this is my warning log
+2024-09-03 16:12:52,934 DEBUG this is my debug log
+2024-09-03 16:12:52,934 ERROR this is my error log
+2024-09-03 16:12:52,935 INFO sucessfully Enter function
+2024-09-03 16:12:52,935 INFO Enter into else function
+2024-09-03 16:12:52,937 INFO sucessfully Enter function
+2024-09-03 16:12:52,937 ERROR error happen
+2024-09-03 16:12:52,937 ERROR Exception occure 'address'
+Traceback (most recent call last):
+  File "C:\Users\user\AppData\Local\Temp\ipykernel_9304\1535801120.py", line 12, in get_value_from_dict
+    value = dictionary[key]
+            ~~~~~~~~~~^^^^^
+KeyError: 'address'
+2024-09-03 16:12:56,054 INFO this is my info
+2024-09-03 16:12:56,054 WARNING this is my warning log
+2024-09-03 16:12:56,054 DEBUG this is my debug log
+2024-09-03 16:12:56,054 ERROR this is my error log
+2024-09-03 16:12:56,055 INFO sucessfully Enter function
+2024-09-03 16:12:56,055 INFO Enter into else function
+2024-09-03 16:12:56,055 INFO sucessfully Enter function
+2024-09-03 16:12:56,056 ERROR error happen
+2024-09-03 16:12:56,056 ERROR Exception occure 'address'
+Traceback (most recent call last):
+  File "C:\Users\user\AppData\Local\Temp\ipykernel_9304\1535801120.py", line 12, in get_value_from_dict
+    value = dictionary[key]
+            ~~~~~~~~~~^^^^^
+KeyError: 'address'
+2024-09-03 16:49:14,709 ERROR No such comm target registered: jupyter.widget.control
+2024-09-03 16:49:14,712 WARNING No such comm: 1a5651ab-a4f2-410f-b260-378bd6f0d3d2
+2024-09-03 16:49:14,712 DEBUG Current comms: []
+2024-09-03 17:15:15,447 ERROR No such comm target registered: jupyter.widget.control
+2024-09-03 17:15:15,453 WARNING No such comm: 2e6a704e-c3c5-414a-a7a9-77aceff1fdd4
+2024-09-03 17:15:15,454 DEBUG Current comms: []
+2024-09-03 17:43:54,169 ERROR No such comm target registered: jupyter.widget.control
+2024-09-03 17:43:54,172 WARNING No such comm: fa8cf12e-7654-4182-9e19-30c8113c8bc6
+2024-09-03 17:43:54,172 DEBUG Current comms: []
+2024-09-03 17:47:47,468 ERROR No such comm target registered: jupyter.widget.control
+2024-09-03 17:47:47,470 WARNING No such comm: 01452fe7-fd6b-4888-9fb3-f2ee1ec9e182
+2024-09-03 17:47:47,470 DEBUG Current comms: []
+2024-09-03 18:06:07,584 INFO this is my info
+2024-09-03 18:06:07,585 WARNING this is my warning log
+2024-09-03 18:06:07,585 DEBUG this is my debug log
+2024-09-03 18:06:07,585 ERROR this is my error log
+2024-09-03 18:06:07,585 INFO sucessfully Enter function
+2024-09-03 18:06:07,585 INFO Enter into else function
+2024-09-03 18:06:07,586 INFO sucessfully Enter function
+2024-09-03 18:06:07,586 ERROR error happen
+2024-09-03 18:06:07,586 ERROR Exception occure 'address'
+Traceback (most recent call last):
+  File "C:\Users\user\AppData\Local\Temp\ipykernel_9304\1535801120.py", line 12, in get_value_from_dict
+    value = dictionary[key]
+            ~~~~~~~~~~^^^^^
+KeyError: 'address'
+2024-09-03 18:06:56,757 INFO this is my info
+2024-09-03 18:06:56,757 WARNING this is my warning log
+2024-09-03 18:06:56,757 DEBUG this is my debug log
+2024-09-03 18:06:56,758 ERROR this is my error log
+2024-09-03 18:06:56,758 INFO sucessfully Enter function
+2024-09-03 18:06:56,758 INFO Enter into else function
+2024-09-03 18:06:56,758 INFO sucessfully Enter function
+2024-09-03 18:06:56,758 ERROR error happen
+2024-09-03 18:06:56,758 ERROR Exception occure 'address'
+Traceback (most recent call last):
+  File "C:\Users\user\AppData\Local\Temp\ipykernel_9304\1658939903.py", line 12, in get_value_from_dict
+    value = dictionary[key]
+            ~~~~~~~~~~^^^^^
+KeyError: 'address'
+2024-09-03 18:08:03,493 INFO this is my info
+2024-09-03 18:08:03,493 WARNING this is my warning log
+2024-09-03 18:08:03,493 DEBUG this is my debug log
+2024-09-03 18:08:03,493 ERROR this is my error log
+2024-09-20 12:44:58,348 INFO this is my info
+2024-09-20 12:44:58,349 WARNING this is my warning log
+2024-09-20 12:44:58,349 DEBUG this is my debug log
+2024-09-20 12:44:58,349 ERROR this is my error log
+2024-09-20 12:44:58,349 INFO sucessfully divided a/b
+2024-09-20 12:44:58,349 INFO Enter into else function
+2024-09-20 12:44:58,350 ERROR error happen
+2024-09-20 12:44:58,350 ERROR Exception occure division by zero
+Traceback (most recent call last):
+  File "C:\Users\user\AppData\Local\Temp\ipykernel_12684\1849191447.py", line 10, in divide
+    result = a / b
+             ~~^~~
+ZeroDivisionError: division by zero
+2024-09-20 14:13:10,531 ERROR No such comm target registered: jupyter.widget.control
+2024-09-20 14:13:10,534 WARNING No such comm: c03364df-977d-4c7d-b817-605c536e0213
+2024-09-20 14:13:10,535 DEBUG Current comms: []
